@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Dec  7 07:28:32 2022
+# Process ID: 20334
+# Current directory: /afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/8bitCounterTFF/8bitCounterTFF.runs/impl_1
+# Command line: vivado -log counter_8b_TFF.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source counter_8b_TFF.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/8bitCounterTFF/8bitCounterTFF.runs/impl_1/counter_8b_TFF.vdi
+# Journal file: /afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/8bitCounterTFF/8bitCounterTFF.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source counter_8b_TFF.tcl -notrace

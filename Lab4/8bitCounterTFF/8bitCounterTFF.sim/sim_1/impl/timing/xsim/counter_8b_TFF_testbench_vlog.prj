@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"counter_8b_TFF_testbench_time_impl.v" \
+"../../../../../8bitCounterTFF.srcs/sim_1/new/counter_8b_TFF_testbench.v" \
+
+# Do not sort compile order
+nosort

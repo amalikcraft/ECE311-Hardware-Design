@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/8bitCounterTFF/8bitCounterTFF.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/8bitCounterTFF/8bitCounterTFF.srcs/sim_1/new/counter_8b_TFF_testbench.v,1670417009,verilog,,,,counter_8b_TFF_testbench,,,,,,,,
+/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/8bitCounterTFF/8bitCounterTFF.srcs/sources_1/new/CounterTFF.v,1670416645,verilog,,/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/8bitCounterTFF/8bitCounterTFF.srcs/sources_1/new/TFF.v,,CounterTFF,,,,,,,,
+/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/8bitCounterTFF/8bitCounterTFF.srcs/sources_1/new/TFF.v,1670415863,verilog,,/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/8bitCounterTFF/8bitCounterTFF.srcs/sim_1/new/counter_8b_TFF_testbench.v,,TFF,,,,,,,,

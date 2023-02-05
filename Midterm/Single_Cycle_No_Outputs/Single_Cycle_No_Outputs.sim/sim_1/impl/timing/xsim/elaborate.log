@@ -1,0 +1,103 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /opt/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 798472e6bb5b4069aa66e56bf3fa5918 --incr --debug typical --relax --mt 8 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot testbench_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "/afs/ee.cooper.edu/user/a/ahmad.malik/Downloads/kai_mid/midterm/midterm.sim/sim_1/impl/timing/xsim/testbench_time_impl.v" Line 5004. Module mips has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/OBUF.v" Line 25. Module OBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/BUFG.v" Line 27. Module BUFG has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/IBUF.v" Line 29. Module IBUF has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/afs/ee.cooper.edu/user/a/ahmad.malik/Downloads/kai_mid/midterm/midterm.sim/sim_1/impl/timing/xsim/testbench_time_impl.v" Line 4265. Module datapath has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/afs/ee.cooper.edu/user/a/ahmad.malik/Downloads/kai_mid/midterm/midterm.sim/sim_1/impl/timing/xsim/testbench_time_impl.v" Line 3383. Module alu has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/LUT2.v" Line 28. Module LUT2 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/LUT2.v" Line 65. Module x_lut2_mux4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/LUT5.v" Line 30. Module LUT5 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "/wrk/2019.1/continuous/2019_05_24_2552052/data/verilog/src/unisims/CARRY4.v" Line 32. Module CARRY4 has a timescale but at least one module in design doesn't have timescale.
+INFO: [Common 17-14] Message 'XSIM 43-4100' appears 50 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "testbench_time_impl.sdf", for root module "testbench/dut/mips".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "testbench_time_impl.sdf", for root module "testbench/dut/mips".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.CARRY4
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.LUT4
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.adder
+Compiling module simprims_ver.x_lut3_mux8
+Compiling module simprims_ver.LUT3
+Compiling module xil_defaultlib.adder_0
+Compiling module simprims_ver.FDCE_default
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1
+Compiling module xil_defaultlib.flopr
+Compiling module simprims_ver.RAMD32
+Compiling module simprims_ver.RAMS32
+Compiling module xil_defaultlib.RAM32M_UNIQ_BASE_
+Compiling module xil_defaultlib.RAM32M_HD24
+Compiling module xil_defaultlib.RAM32M_HD25
+Compiling module xil_defaultlib.RAM32M_HD26
+Compiling module xil_defaultlib.RAM32M_HD27
+Compiling module xil_defaultlib.RAM32M_HD28
+Compiling module xil_defaultlib.RAM32M_HD29
+Compiling module xil_defaultlib.RAM32M_HD30
+Compiling module xil_defaultlib.RAM32M_HD31
+Compiling module xil_defaultlib.RAM32M_HD32
+Compiling module xil_defaultlib.RAM32M_HD33
+Compiling module xil_defaultlib.RAM32M_HD34
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.datapath
+Compiling module xil_defaultlib.mips
+Compiling module xil_defaultlib.imem
+Compiling module xil_defaultlib.dmem
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench_time_impl

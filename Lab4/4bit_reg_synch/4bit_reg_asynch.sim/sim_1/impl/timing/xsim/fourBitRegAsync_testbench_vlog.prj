@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"fourBitRegAsync_testbench_time_impl.v" \
+"../../../../../4bit_reg_asynch.srcs/sim_1/new/fourBitRegAsync_testbench.v" \
+
+# Do not sort compile order
+nosort

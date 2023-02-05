@@ -1,0 +1,13 @@
+04:49:59 INFO  : Registering command handlers for SDK TCF services
+04:50:00 INFO  : Launching XSCT server: xsct -n -interactive /afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.sdk/temp_xsdb_launch_script.tcl
+04:50:02 INFO  : XSCT server has started successfully.
+04:50:03 INFO  : Successfully done setting XSCT server connection channel  
+04:50:03 INFO  : Successfully done setting SDK workspace  
+04:50:03 INFO  : Processing command line option -hwspec /afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.sdk/vga_interface_wrapper.hdf.
+04:50:43 INFO  : Launching XSCT server: xsct -n -interactive /afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.sdk/temp_xsdb_launch_script.tcl
+04:50:45 INFO  : XSCT server has started successfully.
+04:50:47 INFO  : Successfully done setting XSCT server connection channel  
+04:50:47 INFO  : Successfully done setting SDK workspace  
+04:50:48 INFO  : Registering command handlers for SDK TCF services
+04:50:49 INFO  : Processing command line option -hwspec /afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.sdk/vga_interface_wrapper.hdf.
+04:50:49 INFO  : Checking for hwspec changes in the project vga_interface_wrapper_hw_platform_0.

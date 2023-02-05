@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Oct 24 19:19:15 2022
+# Process ID: 19816
+# Current directory: /afs/ee.cooper.edu/user/a/ahmad.malik/Music/Lab3/decoder/decoder/decoder.runs/synth_1
+# Command line: vivado -log decoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source decoder.tcl
+# Log file: /afs/ee.cooper.edu/user/a/ahmad.malik/Music/Lab3/decoder/decoder/decoder.runs/synth_1/decoder.vds
+# Journal file: /afs/ee.cooper.edu/user/a/ahmad.malik/Music/Lab3/decoder/decoder/decoder.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source decoder.tcl -notrace

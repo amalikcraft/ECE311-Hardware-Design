@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"Parallel_LSReg_4bit_testbench_time_impl.v" \
+"../../../../../4Bit_parallel_LS_Reg.srcs/sim_1/new/Parallel_LSReg_4bit_testbench.v" \
+
+# Do not sort compile order
+nosort

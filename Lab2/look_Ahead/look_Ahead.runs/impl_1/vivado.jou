@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Oct  4 17:44:27 2022
+# Process ID: 31007
+# Current directory: /afs/ee.cooper.edu/user/a/ahmad.malik/lab2/look_Ahead/look_Ahead.runs/impl_1
+# Command line: vivado -log look_ahead_Adder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source look_ahead_Adder.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/a/ahmad.malik/lab2/look_Ahead/look_Ahead.runs/impl_1/look_ahead_Adder.vdi
+# Journal file: /afs/ee.cooper.edu/user/a/ahmad.malik/lab2/look_Ahead/look_Ahead.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source look_ahead_Adder.tcl -notrace

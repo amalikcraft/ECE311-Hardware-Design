@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Dec 25 04:38:17 2022
+# Process ID: 9568
+# Current directory: /afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/impl_1
+# Command line: vivado -log vga_interface_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vga_interface_wrapper.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/impl_1/vga_interface_wrapper.vdi
+# Journal file: /afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source vga_interface_wrapper.tcl -notrace

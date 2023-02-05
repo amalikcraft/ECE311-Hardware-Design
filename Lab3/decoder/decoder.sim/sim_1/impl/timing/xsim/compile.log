@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/a/ahmad.malik/Music/Lab3/decoder/decoder/decoder.sim/sim_1/impl/timing/xsim/decoder_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/a/ahmad.malik/Music/Lab3/decoder/decoder/decoder.srcs/sim_1/new/decoder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_tb

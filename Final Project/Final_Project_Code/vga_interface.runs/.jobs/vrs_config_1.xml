@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="vga_interface_clk_wiz_0_0_synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/vga_interface_clk_wiz_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="vga_interface_axi_smc_0_synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/vga_interface_axi_smc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="vga_interface_rst_clk_wiz_0_148M_0_synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/vga_interface_rst_clk_wiz_0_148M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="vga_interface_mymux_0_0_synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/vga_interface_mymux_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="vga_interface_axi_vdma_0_0_synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/vga_interface_axi_vdma_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="vga_interface_auto_pc_0_synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/vga_interface_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="vga_interface_v_axi4s_vid_out_0_0_synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/vga_interface_v_axi4s_vid_out_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="vga_interface_processing_system7_0_0_synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/vga_interface_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="vga_interface_v_tc_0_0_synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/vga_interface_v_tc_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="vga_interface_clk_wiz_0_0_synth_1"/>
+		<Parent Id="vga_interface_axi_smc_0_synth_1"/>
+		<Parent Id="vga_interface_rst_clk_wiz_0_148M_0_synth_1"/>
+		<Parent Id="vga_interface_mymux_0_0_synth_1"/>
+		<Parent Id="vga_interface_axi_vdma_0_0_synth_1"/>
+		<Parent Id="vga_interface_auto_pc_0_synth_1"/>
+		<Parent Id="vga_interface_v_axi4s_vid_out_0_0_synth_1"/>
+		<Parent Id="vga_interface_processing_system7_0_0_synth_1"/>
+		<Parent Id="vga_interface_v_tc_0_0_synth_1"/>
+	</Run>
+	<Run Id="impl_1" LaunchDir="/afs/ee.cooper.edu/user/a/ahmad.malik/Documents/vga_interface/vga_interface.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="write_bitstream">
+		<Parent Id="synth_1"/>
+		<Parent Id="vga_interface_clk_wiz_0_0_synth_1"/>
+		<Parent Id="vga_interface_axi_smc_0_synth_1"/>
+		<Parent Id="vga_interface_rst_clk_wiz_0_148M_0_synth_1"/>
+		<Parent Id="vga_interface_mymux_0_0_synth_1"/>
+		<Parent Id="vga_interface_axi_vdma_0_0_synth_1"/>
+		<Parent Id="vga_interface_auto_pc_0_synth_1"/>
+		<Parent Id="vga_interface_v_axi4s_vid_out_0_0_synth_1"/>
+		<Parent Id="vga_interface_processing_system7_0_0_synth_1"/>
+		<Parent Id="vga_interface_v_tc_0_0_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

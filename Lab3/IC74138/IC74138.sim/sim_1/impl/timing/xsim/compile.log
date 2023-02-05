@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/a/ahmad.malik/Music/Lab3/IC74138/IC74138.sim/sim_1/impl/timing/xsim/IC74138_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IC74138
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/a/ahmad.malik/Music/Lab3/IC74138/IC74138.srcs/sim_1/new/IC74138_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IC74138_tb

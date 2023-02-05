@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"decoder_tb_time_impl.v" \
+"../../../../../decoder.srcs/sim_1/new/decoder_tb.v" \
+
+# Do not sort compile order
+nosort

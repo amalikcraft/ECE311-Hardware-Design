@@ -1,0 +1,14 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /opt/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 9ebe6cfa79d7414d85a1f16a5a3d2302 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Parallel_LSReg_4bit_testbench_behav xil_defaultlib.Parallel_LSReg_4bit_testbench xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/4Bit_parallel_LS_Reg/4Bit_parallel_LS_Reg.srcs/sources_1/new/parallel_LSReg_4bit.v" Line 2. Module parallel_LSReg_4bit doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.parallel_LSReg_4bit
+Compiling module xil_defaultlib.Parallel_LSReg_4bit_testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Parallel_LSReg_4bit_testbench_behav

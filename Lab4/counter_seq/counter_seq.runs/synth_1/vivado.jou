@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Dec  7 09:16:43 2022
+# Process ID: 23816
+# Current directory: /afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/counter_seq/counter_seq.runs/synth_1
+# Command line: vivado -log counter_seq.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source counter_seq.tcl
+# Log file: /afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/counter_seq/counter_seq.runs/synth_1/counter_seq.vds
+# Journal file: /afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/counter_seq/counter_seq.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source counter_seq.tcl -notrace

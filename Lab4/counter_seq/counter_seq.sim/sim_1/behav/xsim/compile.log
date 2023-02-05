@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/counter_seq/counter_seq.srcs/sources_1/new/counter_seq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_seq
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/counter_seq/counter_seq.srcs/sim_1/new/counter_seq_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_seq_testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/a/ahmad.malik/Lab4/counter_seq/counter_seq.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
